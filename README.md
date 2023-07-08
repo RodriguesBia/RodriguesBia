@@ -15,7 +15,7 @@
 </div><br/>
 
 <div>
-<img style="margin-left:15px;" align="right" height="100px" width="100px" alt="Foto em desenho Bianca Rodrigues" src="https://raw.githubusercontent.com/RodriguesBia/icones-Git/main/fotor-ai-20230708114846.jpg?token=GHSAT0AAAAAACEPNO4J52B6ILOKV2HVQ4GCZFJSX6A">
+<img style="margin-left:15px;" align="right" height="100px" width="100px" alt="Foto em desenho Bianca Rodrigues" src="https://github.com/RodriguesBia/icones-Git/blob/main/fotor-ai-20230708114846.jpg">
 
 <p align="left" style="text-align: justify;";>Estudante de programação em busca de mostrar, como diz minha querida mãe, todas as bruxarias que sei fazer com programação.</p>
 </div>
